@@ -1,0 +1,63 @@
+{
+  "picBed": {
+    "current": "github",
+    "uploader": "github",
+    "smms": {
+      "token": ""
+    },
+    "github": {
+      "_configName": "Github",
+      "_id": "c0e78934-3805-4c6d-8e89-a513b842021d",
+      "_createdAt": 1710397367365,
+      "_updatedAt": 1710598528543,
+      "repo": "beanljun/imgs",
+      "branch": "main",
+      "token": "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",
+      "path": "blog/moos/",
+      "customUrl": "https://cdn.beanljun.top/gh/beanljun/imgs"
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    },
+    "showUpdateTip": true,
+    "privacyEnsure": true,
+    "pasteStyle": "markdown",
+    "autoRename": false,
+    "useBuiltinClipboard": false,
+    "server": {
+      "port": 36677,
+      "host": "127.0.0.1",
+      "enable": true
+    },
+    "rename": false
+  },
+  "needReload": false,
+  "uploader": {
+    "github": {
+      "configList": [
+        {
+          "_configName": "Github",
+          "_id": "c0e78934-3805-4c6d-8e89-a513b842021d",
+          "_createdAt": 1710397367365,
+          "_updatedAt": 1710598528543,
+          "repo": "beanljun/imgs",
+          "branch": "main",
+          "token": "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",
+          "path": "blog/moos/",
+          "customUrl": "https://cdn.beanljun.top/gh/beanljun/imgs"
+        }
+      ],
+      "defaultId": "c0e78934-3805-4c6d-8e89-a513b842021d"
+    }
+  },
+  "picgoPlugins": {},
+  "debug": true,
+  "PICGO_ENV": "GUI"
+}
